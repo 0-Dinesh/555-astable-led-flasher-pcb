@@ -1,4 +1,4 @@
-# 555 Astable Multivibrator LED Flasher PCB
+# Astable 555 Timer LED Flasher Circuit \& PCB Design
 
 An open-source Printed Circuit Board (PCB) designed in KiCad featuring an LM555 timer IC in astable multivibrator mode for pulse-width timing and visual signaling.
 
